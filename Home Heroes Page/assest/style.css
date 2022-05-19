@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: large;
+    background-color: darkslategrey;
+    padding: 30px;
+}
+
+/* nav {
+    background-color: antiquewhite;
+} */
