@@ -1,6 +1,8 @@
 header {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    position: fixed;
+    width: 100%;
     align-items: center;
     font-size: large;
     background-color: darkslategrey;
@@ -10,3 +12,19 @@ header {
 /* nav {
     background-color: antiquewhite;
 } */
+
+
+body {
+    background-color: aqua;
+    position: relative;
+}
+
+#about {
+    background-color: azure;
+    margin: 20px 20px 50px;
+    padding: 100px;
+    height: 500px;
+    /* position: absolute; */
+    
+
+}
